@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "sahel";
+  src: url("../fonts/Sahel.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/Sahel.eot") format("embedded-opentype"), /* IE6-IE8 */ url("../fonts/Sahel.woff") format("woff"),
+    /* Pretty Modern Browsers */ url("../fonts/Sahel.ttf") format("truetype"); /* Safari, Android, iOS */
+}
